@@ -9,8 +9,7 @@ float getElapsedTime(sf::Clock clock){
   return (1.0f + std::sin(time * 3.141592f))*0.5;
 }
 
-int main()
-{
+int main(){
   // Create the SFML window
   sf::RenderWindow window(sf::VideoMode(800, 600), "OpenGL SFML Test");
   // Activate the window for OpenGL rendering

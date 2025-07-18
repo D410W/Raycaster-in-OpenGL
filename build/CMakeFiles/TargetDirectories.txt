@@ -1,3 +1,0 @@
-/home/thales/Documents/coding/prohects/raycaster/build/CMakeFiles/raycasted.dir
-/home/thales/Documents/coding/prohects/raycaster/build/CMakeFiles/edit_cache.dir
-/home/thales/Documents/coding/prohects/raycaster/build/CMakeFiles/rebuild_cache.dir
